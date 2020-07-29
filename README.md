@@ -13,5 +13,6 @@ x = 10
 formatted = "I have told you {} times already".format(10)
 
 The old Way : % operator (deprecated)
+
 x = 10
 formatted = "I have told you %d times already" % (x)
